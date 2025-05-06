@@ -1,6 +1,8 @@
 export default function ContactSection() {
     return (
       <>
+      
+      
         <section className="bg-[#2b1f1f] text-white px-6 py-16 text-center">
           <div className=" mx-auto">
             <hr className="border-gray-400 mb-8" />
